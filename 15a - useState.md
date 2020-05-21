@@ -2,11 +2,11 @@
 
 Este `hook` nos permite acceder al estado en un componente funcional.
 
-## ⏱️ ¿Cuándo debería usar useState?** 
+## ⏱️ ¿Cuándo debería usar useState?
 
 Cada vez que tengas un componente y te des cuenta que algo en ese componente tiene que *cambiar*, dado un cierto evento o acción.
 
-## ✍️ ¿Cómo es su sintaxis?**
+## ✍️ ¿Cómo es su sintaxis?
 
 `useState` es una función que devuelve un array. Este array contiene dos elementos que van de la mano:
 
